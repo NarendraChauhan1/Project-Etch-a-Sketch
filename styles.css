@@ -19,6 +19,7 @@ body {
   display: flex;
   flex-grow: 1;
   box-sizing: border-box;
+  transition: background-color 0.3s ease;
 }
 
 h1 {
